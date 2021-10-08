@@ -52,6 +52,9 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  cta:
+    link_url: test
+    open_in_new_tab: true
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
